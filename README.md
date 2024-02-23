@@ -1,4 +1,4 @@
-This is a really simple single view application which is inspired from the realy famous I am Rich application. It contains a Label - "I am Rich" and an UIImage - diamond.
+This is a really simple single view application which is inspired from the really famous I am Rich application. It contains a Label - "I am Rich" and an UIImage - diamond.
 
 Here is the screenshot of the application:
 
